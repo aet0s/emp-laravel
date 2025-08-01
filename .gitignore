@@ -1,3 +1,0 @@
-# ignore environment-specific settings
-/.env
-/config/app.php
