@@ -13,7 +13,7 @@ return [
     | a conventional file to locate the various service credentials.
     |
     */
-
+#debu
     'postmark' => [
         'token' => env('POSTMARK_TOKEN'),
     ],
