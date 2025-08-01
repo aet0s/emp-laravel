@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name is hardick
+    | Application Name is debu
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application, which will be used when the
